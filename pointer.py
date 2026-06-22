@@ -12,6 +12,6 @@ class Solution:
             left = left.next
             right = right.next
 
-        left.next = left.next.next
+        left.next = left.next.next delete the node
 
         return test.next
