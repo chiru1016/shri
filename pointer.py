@@ -1,6 +1,6 @@
 class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
-        test = ListNode(0, head) location 
+        test = ListNode(0, head) //location 
 
         right = test
         left = test
