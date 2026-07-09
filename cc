@@ -1,4 +1,4 @@
 shall I 
-n
+ni
 neww 1
 new 4
