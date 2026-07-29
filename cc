@@ -1,6 +1,6 @@
 shall I 
 chiru
-mewer
+me
 nihaaa
 neww 1
 new 4
